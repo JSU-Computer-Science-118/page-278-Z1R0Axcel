@@ -12,8 +12,6 @@ int main()                                       // Line 6
   int totalNumOfBoxesSold;                       // Line 11
   double costOfOneBox;                           // Line 12
   cout << fixed << showpoint << setprecision(2); // Line 13
-  cout << "Line 14: Enter each volunteer's name and the number of boxes sold "
-          "by each volunteer, ending with -1: "
        << endl;                                                 // Line 14
   totalNumOfBoxesSold = 0;                                      // Line 15
   numOfVolunteers = 0;                                          // Line 16
